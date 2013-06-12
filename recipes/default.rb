@@ -17,6 +17,6 @@
 # limitations under the License.
 #
 
-npm_package "less" do
+npm_package "less@#{node[:lesscss][:version]}" do
   action :install
 end 
