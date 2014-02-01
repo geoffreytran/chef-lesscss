@@ -17,4 +17,4 @@
 # limitations under the License.
 #
 
-default[:lesscss][:version] = "1.3.3"
+default[:lesscss][:version] = "1.6.1"
